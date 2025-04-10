@@ -1,6 +1,6 @@
 Hello, World!
 
-I’m Cyril Ogban, a passionate Mechatronics Engineering student at Federal University of Technology Owerri and tech enthusiast dedicated to building impactful solutions. My journey in tech combines problem-solving with creativity, aiming to empower my community through innovation.
+I’m Cyril Ogban, a passionate Mechatronics Engineering student at Federal University of Technology Owerri,Nigeria. A Python programmer dedicated to building impactful solutions. My journey in tech combines problem-solving with creativity, aiming to empower my community through innovation.
 
 🔧 Skills & Interests:
 
