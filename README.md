@@ -1,6 +1,6 @@
 Hello, World!
 
-I’m Cyril Ogban, a passionate Mechatronics Engineering student at Federal University of Technology Owerri and tech enthusiast dedicated to building impactful solutions. My journey in tech combines problem-solving with creativity, aiming to empower both individuals and communities through innovation.
+I’m Cyril Ogban, a passionate Mechatronics Engineering student at Federal University of Technology Owerri and tech enthusiast dedicated to building impactful solutions. My journey in tech combines problem-solving with creativity, aiming to empower my community through innovation.
 
 🔧 Skills & Interests:
 
@@ -16,7 +16,7 @@ Automation: Simplifying workflows and daily routines through code
 
 🌟 What I’m Working On:
 
-Creating tech-driven tools, faith based tools, chatbots for automation to support YouThopia, an online Christian community I lead, combining Faith, personal development and community Building.
+Creating automation tools, faith based tools, chatbots for automation to support YouThopia Bible Community, an online Christian community I lead, combining Faith, personal development and community Building.
 
 
 🌱 Always Learning:
